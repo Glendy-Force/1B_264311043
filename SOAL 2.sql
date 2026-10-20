@@ -28,8 +28,8 @@ SELECT * FROM mahasiswa;
 -- UPDATE
 UPDATE krs
 SET semester = '5'
-WHERE id_krs = 'KRS05';
+WHERE id_krs = 'KRS03';
 
 -- DELETE
 DELETE FROM krs
-WHERE id_krs = 'KRS04';
+WHERE id_krs = 'KRS03';
