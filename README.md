@@ -17,8 +17,8 @@ Sistem ini dikembangkan untuk mengelola data akademik perguruan tinggi secara ef
 
 ```text
 .
-├── db_akademik.sql          # File DDL (Tabel) & Query SQL (Dummy Data)
-├── README.md                # Dokumentasi utama proyek
+├── Model_Fisik.sql          # File DDL (Tabel) & Query SQL (Dummy Data)
+├── Hasil_Laporan.md         # Dokumentasi utama proyek
 └── assets/                  # File pendukung (Diagram ERD, Dokumentasi Word)
 ```
 
@@ -28,7 +28,7 @@ Sistem ini dikembangkan untuk mengelola data akademik perguruan tinggi secara ef
 
 ### Entity-Relationship Diagram (ERD)
 
-![ERD Sistem Informasi Akademik](assets/erd_clean_no_title.png)
+![ERD Sistem Informasi Akademik](assets/erdku.png)
 
 ### Daftar Entitas & Atribut
 
@@ -51,11 +51,11 @@ Sistem ini dikembangkan untuk mengelola data akademik perguruan tinggi secara ef
 1. **Import Database:**
    * Buka **phpMyAdmin** / **MySQL Workbench** / **DBeaver**.
    * Buat database baru bernama `db_akademik` atau jalankan file SQL secara langsung.
-   * Import file `db_akademik.sql`.
+   * Import file `Model_Fisik.sql`.
 
 2. **Terminal / CLI MySQL:**
    ```bash
-   mysql -u root -p < db_akademik.sql
+   mysql -u root -p < Model_Fisik.sql
    ```
 
 ---
