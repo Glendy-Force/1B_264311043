@@ -28,7 +28,7 @@ Sistem ini dikembangkan untuk mengelola data akademik perguruan tinggi secara ef
 
 ### Entity-Relationship Diagram (ERD)
 
-![ERD Sistem Informasi Akademik](assets/erdku.png)
+![ERD Sistem Informasi Akademik](LaporanRemedUTS/assets/erdku.png)
 
 ### Daftar Entitas & Atribut
 
