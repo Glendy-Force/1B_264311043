@@ -16,7 +16,7 @@ Sebagai solusi, dilakukan penambahan proses bisnis berupa **Modul Manajemen Abse
 
 ### Entity-Relationship Diagram (ERD)
 
-![ERD db_akademik](erd_clean_perfect_layout_3.png)
+![ERD db_akademik](erd.png)
 
 ### Identifikasi Entitas & Atribut Utama
 
